@@ -1,0 +1,28 @@
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.exe
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.deps.json
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.runtimeconfig.json
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.dll
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.pdb
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.AssemblyInfo.cs
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.dll
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\refint\TestAppStaple.dll
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.pdb
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.genruntimeconfig.cache
+C:\Users\denni\Documents\C# упражнения\TestAppStaple\TestAppStaple\obj\Debug\net8.0\ref\TestAppStaple.dll
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.exe
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.deps.json
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.runtimeconfig.json
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.dll
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\bin\Debug\net8.0\TestAppStaple.pdb
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.AssemblyInfo.cs
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.dll
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\refint\TestAppStaple.dll
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.pdb
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\TestAppStaple.genruntimeconfig.cache
+C:\Users\denni\Documents\SpaceCube\Assigned tasks\Second Task\MyWork\TestAppStaple\TestAppStaple\obj\Debug\net8.0\ref\TestAppStaple.dll

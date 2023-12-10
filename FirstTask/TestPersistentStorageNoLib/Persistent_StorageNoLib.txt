@@ -1,0 +1,2 @@
+Varna=9000
+Burgas=8000
